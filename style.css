@@ -1,3 +1,12 @@
 body {
     background-image: url('https://images.unsplash.com/photo-1655712001226-37df6c2733ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
 }
+
+#login-form {
+    margin: auto;
+    margin-top: 25%;
+    width: 30%;
+    outline: auto;
+    padding: 1rem;
+    background-color: aliceblue;
+}
