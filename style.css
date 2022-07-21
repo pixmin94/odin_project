@@ -16,3 +16,12 @@
 p {
     margin: 0 0 10px;
 }
+
+/* Dashboard */
+.container {
+    display: flex;
+}
+.sidebar {
+    background-color: aliceblue;
+    font-family: 'Prompt', Helvetica Neue, Helvetica, Arial, sans-serif;
+}
